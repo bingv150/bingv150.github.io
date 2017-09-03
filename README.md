@@ -1,6 +1,7 @@
-# 码志
+# 饼叔
 
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://bingv150.github.io/>，欢迎 Star 和 Fork。
+Fork自http://mazhuang.org
 
 ## 概览
 
@@ -15,9 +16,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://mazhuang.org)**
+**[在线预览 &rarr;](https://bingv150.github.io)**
 
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://bingv150.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 

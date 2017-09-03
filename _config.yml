@@ -4,24 +4,24 @@
 baseurl:
 url: https://bingv150.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 饼叔
+subtitle: "饼叔码农生活"
+description: "饼叔的个人博客"
+keywords: 饼叔, Beenz,GIS
 favicon: /favicon.ico
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Beenz Chen
+organization:
+organization_url:
+github_username: bingv150
+location: Xiamen, China
+email: bingv150@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -89,10 +89,10 @@ comments_provider: gitment
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: mzlogin
+    username: bingv150
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: bingv150
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
