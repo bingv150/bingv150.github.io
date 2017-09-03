@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: bingv150/bingv150.github.io
 
 # ---------------- #
 #      Comments    #
